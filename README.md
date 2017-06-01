@@ -1,5 +1,5 @@
 # BallPong
-A ball pong game created in processing. Still a work in progress.
+A ball pong game created in java/processing. Still a work in progress.
 
 
 
